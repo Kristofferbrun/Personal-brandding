@@ -1,0 +1,17 @@
+/*
+ Theme Name:   oceanwp1 child
+ Theme URI:    http://kristofferbrun.dk/oceanwp1-child/
+ Description:  oceanwp1 child theme
+ Author:       Kristoffer Brun Nielsen
+ Author URI:   http://kristofferbrun.dk
+ Template:     oceanwp
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  toceanwp1child
+*/
+#site-header
+{
+  position: fixed !important;
+}
